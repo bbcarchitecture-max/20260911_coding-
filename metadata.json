@@ -1,0 +1,6 @@
+{
+  "name": "工程研發專案管理系統 (PMS)",
+  "description": "整合視覺化看板 (Kanban)、甘特圖 (Gantt) 時程管理、工程疑問單 (RFI) 追蹤、富文本剪貼簿貼圖與 RBAC 權限控制的工程與研發專案管理平台",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
